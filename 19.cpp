@@ -12,6 +12,6 @@ int main(int argc, char* argv[])
     x = x ^ y;
     cout << x << endl;
     cout << (y >> x) << endl;
-    // cout == 3
+    // cout == 1
     return 0;
 }
