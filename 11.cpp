@@ -42,7 +42,9 @@ int main(int argc, char* argv[])
     // for(int i = 0; i < 10; ++i)
     //     cout << a[i] << endl;
     cout << func2(15) << endl;
+    // cout == 7
     return 0;
 }
-//this is main.cpp
+
+
 

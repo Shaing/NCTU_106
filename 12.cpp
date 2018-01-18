@@ -16,6 +16,7 @@ int func(int x)
 int main(int argc, char* argv[])
 {
     cout << func(atoi(argv[1])) << endl;
+    //cout == 33
     return 0;
 }
 //this is main.cpp
