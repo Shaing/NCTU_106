@@ -19,6 +19,7 @@ int main(int argc, char* argv[])
     for(int i = 4; i >= 1; i--) 
         func(i, 9);
     cout << a[1] << endl;
+    // cout == 30
     return 0;
 }
 

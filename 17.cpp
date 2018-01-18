@@ -16,6 +16,7 @@ int func(float x, int y)
 int main(int argc, char* argv[])
 {
     cout << func(x,y) + func(y,x) << endl;
+    // cout == (7 + (-3) = 4)
     return 0;
 }
 
