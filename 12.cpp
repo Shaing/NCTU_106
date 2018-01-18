@@ -1,3 +1,5 @@
+/* F(0) = 0, F(1) = 1, F(n) = F(n-3) + (2 * F(n - 2)), n > 1. */
+
 #include <iostream>
 using namespace std;
 
